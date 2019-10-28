@@ -15,7 +15,7 @@
 
 An app for joining the Accord Project Slack workspace.
 
-The app is hosted at: https://accord-project-slack-signup.herokuapp.com/
+The app is hosted at https://accord-project-slack-signup.herokuapp.com/
 
 Accord Project is an open source, non-profit, initiative working to transform contract management and contract automation by digitizing contracts. Accord Project operates under the umbrella of the [Linux Foundation][linuxfound]. The technical charter for the Accord Project can be found [here][charter].
 
